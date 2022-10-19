@@ -13,7 +13,7 @@ The package is used to execute the policy trained using [rl_games](https://githu
 ```
 
 ## Installation
-TODO
+pip install -i https://test.pypi.org/simple/ rlg-policy-executor==0.0.2
 
 ## Basic Usage
 please refer to the example in test/test_policy_executor.py
